@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project
+# An AWS SES Email-Receiving pipeline in AWS CDK
 
-This is a blank project for CDK development with TypeScript.
+This is a CDK project of AWS SES email-receiving pipeline developed with TypeScript.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
